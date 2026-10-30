@@ -1,4 +1,8 @@
-# Fashion AI Assistant
+<p align="center">
+  <img src="assets/readme-mark.png" alt="Repository mark for the fashion_ai_codebase fork" width="200">
+</p>
+
+<h1 align="center">Fashion AI Assistant</h1>
 
 > **Fork status:** Fork of [upstream Fashion AI Assistant](https://github.com/guilhermeUpToTask/fashion_ai_codebase). The existing project guide follows.
 
