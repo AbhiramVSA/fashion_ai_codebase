@@ -1,6 +1,18 @@
-> **Fork of [guilhermeUpToTask/fashion_ai_codebase](https://github.com/guilhermeUpToTask/fashion_ai_codebase).**
-
 # Fashion AI Assistant
+
+> **Fork status:** Fork of [upstream Fashion AI Assistant](https://github.com/guilhermeUpToTask/fashion_ai_codebase). The existing project guide follows.
+
+## Overview
+
+The Fashion AI Assistant indexes clothing items from an uploaded image and retrieves similar products from a catalog.
+
+## Navigation
+
+[Architecture](#system-architecture) · [Getting started](#getting-started) · [How to use](#how-to-use) · [Project structure](#project-structure)
+
+## Existing upstream guide
+
+The guide, project branding, and legal notices from the fork base remain below.
 
 A visual search engine for fashion. Upload an image of a person, and the system automatically detects, crops, and indexes each clothing item, allowing you to find visually similar products from your catalog.
 
